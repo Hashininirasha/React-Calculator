@@ -10,3 +10,5 @@ class calculator extends Component {
 
     }
 }
+
+export default calculator;
